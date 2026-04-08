@@ -18,7 +18,7 @@ int main()
         printf("The number is Prime");
     else
         printf("The number is Not Prime");
-        printf(“\n25331A05G6\n”);
+     printf(“\n25331A05G6\n”);
  return 0;
 }
 
