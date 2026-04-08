@@ -27,6 +27,6 @@ int main()
     }
 
     display(arr, n);
-
+printf("\n25331A05G6\n");
     return 0;
 }
